@@ -1,3 +1,4 @@
 ### BS6207_Week2
-Isaac Lin \n
+
+Isaac Lin
 BS6207 Week 2 homework
