@@ -1,4 +1,3 @@
-### BS6207_Week2
+### BS6207 Assignment Folder
 
-Isaac Lin
-BS6207 Week 2 homework
+This is the BS6207 Assignment Folder
